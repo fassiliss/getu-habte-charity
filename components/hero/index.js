@@ -2,10 +2,9 @@ import React from "react";
 import Link from "next/link";
 import Clients from "./client";
 import Image from "next/image";
-
-import hero1 from "/images/slider/right-img2.png";
+import hero1 from "/images/feedthekids.png";
 import hero2 from "/images/slider/s.png";
-import hero3 from "/images/slider/right-img.png";
+import hero3 from "/images/feedthekids1.png";
 
 const Hero = () => {
   return (
@@ -22,11 +21,9 @@ const Hero = () => {
               </div>
               <div className="wpo-hero-subtitle">
                 <p>
-                  <p>
-                    Every child deserves the chance to learn, grow, and dream.
-                    We provide school supplies, uniforms, and support to
-                    students in Webe Wachile district, Ethiopia.
-                  </p>
+                  Every child deserves the chance to learn, grow, and dream. We
+                  provide school supplies, uniforms, and support to students in
+                  Webe Wachile district, Ethiopia.
                 </p>
               </div>
               <div className="btns">
@@ -48,7 +45,7 @@ const Hero = () => {
               <div className="right-items-wrap">
                 <div className="right-item">
                   <div className="r-img">
-                    <Image src={hero1} alt="Children in Ethiopia" />
+                    <Image src={hero1} alt="Feed the Kids in Ethiopia" />
                   </div>
                   <div className="wpo-happy-client">
                     <Clients />
