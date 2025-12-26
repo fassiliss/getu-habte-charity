@@ -22,9 +22,11 @@ const Hero = () => {
               </div>
               <div className="wpo-hero-subtitle">
                 <p>
-                  Supporting children in Yabelo, Ethiopia with food, education,
-                  and hope. Together we can make a lasting difference in their
-                  lives.
+                  <p>
+                    Every child deserves the chance to learn, grow, and dream.
+                    We provide school supplies, uniforms, and support to
+                    students in Webe Wachile district, Ethiopia.
+                  </p>
                 </p>
               </div>
               <div className="btns">

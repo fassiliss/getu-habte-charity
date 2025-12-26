@@ -18,8 +18,7 @@ const Contactpage = () => {
                     </div>
                     <div className="office-info-text">
                       <h2>Our Location</h2>
-                      <p>Webe Wachile District</p>
-                      <p>Yabelo, Ethiopia</p>
+                      <p>Webe Wachile, Ethiopia</p>
                     </div>
                   </div>
                 </div>
@@ -67,7 +66,7 @@ const Contactpage = () => {
       </div>
       <section className="wpo-contact-map-section">
         <div className="wpo-contact-map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.35853437842!2d38.0!3d4.9!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17a1d3f5d5c5c5c5%3A0x1234567890abcdef!2sYabelo%2C%20Ethiopia!5e0!3m2!1sen!2sus!4v1234567890"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.35853437842!2d38.5!3d4.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17a1d3f5d5c5c5c5%3A0x1234567890abcdef!2sBorana%2C%20Ethiopia!5e0!3m2!1sen!2sus!4v1234567890"></iframe>
         </div>
       </section>
     </section>

@@ -15,7 +15,7 @@ const About = (props) => {
           <div className="col-lg-6 col-md-12 col-12">
             <div className="wpo-about-wrap">
               <div className="wpo-about-img">
-                <Image src={abimg} alt="Children in Yabelo, Ethiopia" />
+                <Image src={abimg} alt="Children in Webe Wachile, Ethiopia" />
                 <div className="wpo-ab-shape-1">
                   <div className="s-s1"></div>
                   <div className="s-s2"></div>
@@ -55,10 +55,11 @@ const About = (props) => {
               <h2>Feeding Hope, Building Futures in Ethiopia</h2>
               <p>
                 Getu Habte (ጌቱ ሀብቴ) is a nonprofit organization dedicated to
-                helping children in Yabelo, Ethiopia. We believe every child
-                deserves access to nutritious food and quality education.
-                Through our programs, we provide meals, school supplies, and
-                support to give children the opportunity to thrive.
+                helping children in Webe Wachile district, Ethiopia. We believe
+                every child deserves access to nutritious food and quality
+                education. Through our programs, we provide meals, school
+                supplies, and support to give children the opportunity to
+                thrive.
               </p>
               <ul>
                 <li>🍽️ Providing daily meals to children in need</li>
